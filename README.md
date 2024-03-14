@@ -34,5 +34,9 @@ Slash is an elegant e-commerce app built using Flutter, designed to offer users 
  - MVVM Architecture: Implements the MVVM (Model-View-ViewModel) pattern for a structured and maintainable codebase.
 
   ### ScreenShoots
-  
+  ![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-14 at 19 56 50](https://github.com/amjad605/slashintern/assets/101697928/933e24d1-125b-4369-8896-473fecb882e9)
+  ![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-14 at 19 56 54](https://github.com/amjad605/slashintern/assets/101697928/f92fab91-946c-4d6a-8b8e-d0981e4a2489)
+  ![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-14 at 19 56 59](https://github.com/amjad605/slashintern/assets/101697928/37ee8e49-afc7-43b7-ba47-287ef4cf02f3)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-14 at 19 57 17](https://github.com/amjad605/slashintern/assets/101697928/66ffe254-7a49-414c-9539-216263bbb7bc)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-14 at 19 57 05](https://github.com/amjad605/slashintern/assets/101697928/a80a2ea2-54f8-4741-8326-de2555114ad3)
 
