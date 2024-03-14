@@ -32,6 +32,9 @@ Slash is an elegant e-commerce app built using Flutter, designed to offer users 
  - Responsive Design: Benefit from a responsive design that ensures optimal performance across various devices and screen sizes.
  - BLoC State Management: Utilizes BLoC (Business Logic Component) pattern for efficient state management and separation of concerns.
  - MVVM Architecture: Implements the MVVM (Model-View-ViewModel) pattern for a structured and maintainable codebase.
+## YouTube
+
+[![YouTube Demo](https://img.youtube.com/vi/aPmVyISicT4/0.jpg)](https://youtu.be/aPmVyISicT4)
 
   ### ScreenShoots
   ![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-14 at 19 56 50](https://github.com/amjad605/slashintern/assets/101697928/933e24d1-125b-4369-8896-473fecb882e9)
