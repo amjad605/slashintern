@@ -21,11 +21,18 @@ Slash is an elegant e-commerce app built using Flutter, designed to offer users 
      ```
    flutter run  
    ```
-A few resources to get you started if this is your first Flutter project:
+### Project Structure 
+ -lib/core
+ -lib/features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ ### Features
+ - Product Catalog: Explore a diverse range of products conveniently categorized for easy navigation.
+ - Product Details: View comprehensive information about each product, including images, descriptions, and pricing.
+ - Animations: Enjoy smooth and elegant animations throughout the app, enhancing the user experience.
+ - Responsive Design: Benefit from a responsive design that ensures optimal performance across various devices and screen sizes.
+ - BLoC State Management: Utilizes BLoC (Business Logic Component) pattern for efficient state management and separation of concerns.
+ - MVVM Architecture: Implements the MVVM (Model-View-ViewModel) pattern for a structured and maintainable codebase.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ### ScreenShoots
+  
+
