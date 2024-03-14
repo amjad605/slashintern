@@ -1,11 +1,26 @@
-# slashintern
+# Slash E-Commerce App
 
-A new Flutter project.
+Slash is an elegant e-commerce app built using Flutter, designed to offer users a seamless browsing experience for Local Brands products. With a focus on local Brands product browsing, detailed product information, captivating animations, and responsive design, Slash sets a new standard for online shopping.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+### Installation
+1. Clone the Repository:
+   ```
+   git clone https://github.com/amjad605/slashintern
+   ```
+2. Navigate to the project directory:
+    ```
+   cd slashintern
+   ```
+3. Install dependencies:
+   ```
+   flutter pub get 
+   ```
+4. Run Application
+     ```
+   flutter run  
+   ```
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
